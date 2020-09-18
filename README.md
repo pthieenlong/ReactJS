@@ -1,4 +1,10 @@
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Some note by me 
+
+I can't commit my "node_modules" in to this git because it have more than 100 files (about 1100 files I think), so if you wanna pull this, please install first reactjs or it'll have some bugs of the missing files. 
 
 ## Available Scripts
 
