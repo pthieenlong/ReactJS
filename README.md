@@ -1,6 +1,7 @@
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was create for study ReactJS & NodeJS (https://drive.google.com/drive/folders/1hJDoSLKdBtFnHl5J6p_fOf7DCBQ6Df9o?fbclid=IwAR0D3peH8KttnDrsxt7UScmu1mfXXycIffcf-zvXDHyfybtPO-C_5liWoOE)
 
 ## Some note by me 
 
